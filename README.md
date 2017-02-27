@@ -16,8 +16,18 @@
 
 **What are we working on?**
 
-- Feb 14, 2017: Mateo (Civic Party Software) set up Github + Landing Page for project.
-- Feb 9, 2017: Fake the News team met for brainstorming on the three lesson. Sarah (Nucleus Learning Network) is tasked with creating a Curriculum Outline Draft and Mateo (Civic Party Software) is tasked with creating a Design Brief for the Legit-o-Meter web app.
+- Feb 24-26, 2017: Misinfo Con
+  - [Saturday Discussion Notes](https://docs.google.com/document/d/1Jkpe0KwSjBbMhZxYXtPIratLiPFKbnGes1G8dzM2Mzo/edit?usp=sharing)
+  - Sunday Wireframes for Legit-o-Meter
+    - [Mockingbird Link](https://gomockingbird.com/projects/1ai9dty/EbZl46)
+    - [Notes ](/unit1/Feb_26_wireframes.md)
+  - [Sunday Presentation Slides](https://docs.google.com/a/mozilla.com/presentation/d/1-Ks6Cd87tmEQyJVqqCzxCBH8ZYmUV-NdVJLI5kD8zwo/edit?usp=sharing)
+  - [List of other MisinfoCon presentations](https://hackpad.com/Presentations-list-HEfQO6oBc79)
+- Feb 23, 2017: Drafts [notes](https://docs.google.com/a/nucleuslearningnetwork.org/document/d/1YczOCZ9QrWhbbqqNkX57JwtOrbS5xdSsa7rgeyi4W-c/edit?usp=sharing) for Lessons 2 & 3
+- Feb 17, 2017: Draft product spec and curriculum for Lesson 1 (Legit-o-Meter) complete
+  - [Lesson Plan & Worksheet](https://docs.google.com/document/d/1fiA4r5OKVco8b9Gjk7QW4ZlxalsWK4_IpfWV1PITzK4/edit?usp=sharing)
+  - [Web App Product Brief](https://docs.google.com/document/d/1wjEQ1J8NYLxTLQ2HNXMtlJkVIZa60feeGEWoNS80ZLo/edit?usp=sharing)
+- Feb 9, 2017: Fake the News team met for brainstorming on the three lesson. Sarah (Nucleus Learning Network) is tasked with creating a Curriculum Outline Draft and Mateo (Open Austin) is tasked with creating a Design Brief for the Legit-o-Meter web app.
 
 _These are all working titles_
 
