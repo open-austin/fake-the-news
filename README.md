@@ -1,4 +1,4 @@
-<img src="images/mozilla.png" width="150" alt="Mozilla Gigabit Logo"/>
+<img src="images/mozilla.png" width="150" alt="Mozilla Logo"/>
 
 <img src="images/Austin-monitor-logo.png" width="150" alt="Austin Monitor Logo"/>
 <img src="images/nucleus.jpeg" width="150" alt="Nucleus Learning Network Logo"/>
@@ -6,13 +6,15 @@
 
 ### Partnering Organizations:
 
-- Mozilla Gigabit Community Fund
+- Mozilla [Hive Austin](http://twitter.com/hiveatx)
 - Austin Monitor (Capital of Texas Media Foundation)
 - Nucleus Learning Network
 - Civic Party Software
 - Open Austin
 
-**Project Purpose:** To promote an awareness of internet health by fostering learners’ web literacy, this grant is supporting the development of three interactive web literacy lessons and web apps to facilitate learning.
+**Project Purpose:** Help educators and teens evaluate online news for credibility and trust to strengthen their communities’ resilience to Fake News. 
+
+A grant from Mozilla supports the development of three interactive web literacy lessons and web apps to facilitate learning.
 
 **What are we working on?**
 
@@ -21,7 +23,7 @@
   - Sunday Wireframes for Legit-o-Meter
     - [Mockingbird Link](https://gomockingbird.com/projects/1ai9dty/EbZl46)
     - [Notes ](/unit1/Feb_26_wireframes.md)
-  - [Sunday Presentation Slides](https://docs.google.com/a/mozilla.com/presentation/d/1-Ks6Cd87tmEQyJVqqCzxCBH8ZYmUV-NdVJLI5kD8zwo/edit?usp=sharing)
+  - [Sunday Presentation Slides](https://docs.google.com/presentation/d/1-Ks6Cd87tmEQyJVqqCzxCBH8ZYmUV-NdVJLI5kD8zwo/pub?start=false&loop=false&delayms=3000)
   - [List of other MisinfoCon presentations](https://hackpad.com/Presentations-list-HEfQO6oBc79)
 - Feb 23, 2017: Drafts [notes](https://docs.google.com/a/nucleuslearningnetwork.org/document/d/1YczOCZ9QrWhbbqqNkX57JwtOrbS5xdSsa7rgeyi4W-c/edit?usp=sharing) for Lessons 2 & 3
 - Feb 17, 2017: Draft product spec and curriculum for Lesson 1 (Legit-o-Meter) complete
