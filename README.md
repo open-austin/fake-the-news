@@ -26,9 +26,8 @@ Our team is currently focused on drafting curriculum for three units and develop
 
 ### Upcoming Milestones
 
-- 3/15/17: Curriculum (Units 2 & 3) Review draft due
-- 3/17/17: Team IRL Meeting/Brainstorm
 - 4/4/17: Team Check-in
+- 4/17/17: Legit-o-Meter v0 target for soft launch for teacher feedback
 - 5/15/17: Legit-o-Meter v0 target launch for beta testing & Curriculum Due
 - 6/1/17: Finalized curriculum for Units 2 & 3
 - 7/1/17: Identify summer beta testing opportunities
@@ -37,6 +36,9 @@ Our team is currently focused on drafting curriculum for three units and develop
 
 ### Past Milestones
 
+- March 29, 2017: [Unit 2](https://docs.google.com/document/d/1WY9niUdCHBHzebspFYQgASG_UmVKXdvJuBHZMLZhTNY/edit?usp=sharing) Curriculum Deadline
+- March 15, 2017: Curriculum (Units 2 & 3) Review draft due
+- March 17, 2017: Team IRL Meeting/Brainstorm
 - March 6, 2017: Team catch up post-misinfocon
 - Feb 24-26, 2017: Misinfo Con
   - [Saturday Discussion Notes](https://docs.google.com/document/d/1Jkpe0KwSjBbMhZxYXtPIratLiPFKbnGes1G8dzM2Mzo/edit?usp=sharing)
