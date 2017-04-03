@@ -24,6 +24,12 @@ A grant from Mozilla supports the development of three interactive web literacy 
 
 Our team is currently focused on drafting curriculum for three units and developing a web app version of Legit-o-Meter.
 
+Since our project started, we participated in Misinfo Con hosted at the MIT Media Lab. Here are a couple blog posts from [Michael](https://medium.com/read-write-participate/good-news-83b6fc385571) & [Sarah](https://medium.com/read-write-participate/good-news-872b847ab46b) about our take-aways.
+
+Sarah also participated in a [webinar hosted by EducatorInnovator.org](http://educatorinnovator.org/webinars/media-literacy-tools-to-comprehend-critique-fake-news/) with other media literacy and education advocates on "Media Literacy Tools to Comprehend & Critique Fake News" 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1b-O_e_GhHM" frameborder="0" allowfullscreen></iframe>
+
 ### Upcoming Milestones
 
 - 4/4/17: Team Check-in
