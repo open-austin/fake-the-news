@@ -32,6 +32,11 @@ Sarah also participated in a [webinar hosted by EducatorInnovator.org](http://ed
 
 <br>
 
+One of our technical contributors, Rally Jinx, demo'd an early prototype of our Legit-o-Meter Learning App.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgsyTPkTsf4" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
 ### Upcoming Milestones
 
 - 4/4/17: Team Check-in
