@@ -67,18 +67,19 @@ One of our technical contributors, Rally Jinx, demo'd an early prototype of our 
 - Feb 9, 2017: Fake the News team met for brainstorming on the three lesson. Sarah (Nucleus Learning Network) is tasked with creating a Curriculum Outline Draft and Mateo (Open Austin) is tasked with creating a Design Brief for the Legit-o-Meter web app.
 
 ## The Lessons
+These lessons will empower students with valuable news literacy skills that they can use to recognize, evaluate, and combat fake news and misinformation. 
 
 ### Lesson #1: Legit-o-Meter
 
-The goal of Lesson 1 is to give students the tools to examine a web article's credibility. The Fake the News team will develop a web app version of the [Kraken the Code Web Literacy Exercise](https://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html).
+The goal of Lesson 1 is to give students the tools to examine a web article's credibility. The Mission:FakeNews team will develop a web app version of the [Kraken the Code Web Literacy Exercise](https://mozilla.github.io/webmaker-curriculum/WebLiteracyBasics-I/session01-kraken.html).
 
 ### Lesson #2: Rewriting History
 
-The goal of Lesson 2 is to help students understand the origins and consequences of fake news using historical examples. By the end of the lesson, they will understand what motivates this ecosystem and how money, propaganda, misinformation, and political bias influence the content we see online.
+The goal of Lesson 2 is to help students better understand how fake new is produced and how it is spread. Students will have the opportunity to deconstruct fake news and to explore the techniques people use to create fake news, and the consequences of those techniques. 
 
 ### Lesson #3: Run the Presses
 
-The goal of the Lesson 3 is to put students in the seat of the important roles at a news publishing organization. As a journalist, what goes into writing and article? As an Editor, what articles do you choose run with and why?
+The goal of the Lesson 3 is to put students in the editor’s chair and give them a chance to make decisions common in news organizations, and to experience the consequences of those decisions. With this lesson, students will gain a deeper understanding of how fake news fits in a broader news and information ecosystem. 
 
 ## Contact
 - [Michael Kanin](mailto:michael.kanin@cotmf.org), Austin Monitor
