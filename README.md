@@ -85,3 +85,5 @@ The goal of the Lesson 3 is to put students in the editor’s chair and give the
 - [Michael Kanin](mailto:michael.kanin@cotmf.org), Austin Monitor
 - [Sarah Morris](mailto:smorris@nucleuslearningnetwork.org), Nucleus Learning Network
 - [Mateo Clarke](mailto:code@mateoclarke.com), Open Austin & Civic Party Software
+
+hi
