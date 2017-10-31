@@ -20,11 +20,11 @@ A grant from Mozilla supports the development of three interactive web literacy 
 
 ## Roadmap
 
-**What are we working on?**
+**Our Work**
 
-Our team is currently focused on drafting curriculum for three units and developing a web app version of Legit-o-Meter.
+Our team has created curriculum for three units and has developed a web app version of Legit-o-Meter.
 
-Since our project started, we participated in Misinfo Con hosted at the MIT Media Lab. Here are a couple blog posts from [Michael](https://medium.com/read-write-participate/good-news-83b6fc385571) & [Sarah](https://medium.com/read-write-participate/good-news-872b847ab46b) about our take-aways.
+We participated in Misinfo Con hosted at the MIT Media Lab. Here are a couple blog posts from [Michael](https://medium.com/read-write-participate/good-news-83b6fc385571) & [Sarah](https://medium.com/read-write-participate/good-news-872b847ab46b) about our take-aways.
 
 Sarah also participated in a [webinar hosted by EducatorInnovator.org](http://educatorinnovator.org/webinars/media-literacy-tools-to-comprehend-critique-fake-news/) with other media literacy and education advocates on "Media Literacy Tools to Comprehend & Critique Fake News" 
 
@@ -37,18 +37,14 @@ One of our technical contributors, Rally Jinx, demo'd an early prototype of our 
 
 <br>
 
-### Upcoming Milestones
+### Milestones
 
-- 4/4/17: Team Check-in
-- 4/17/17: Legit-o-Meter v0 target for soft launch for teacher feedback
-- 5/15/17: Legit-o-Meter v0 target launch for beta testing & Curriculum Due
-- 6/1/17: Finalized curriculum for Units 2 & 3
-- 7/1/17: Identify summer beta testing opportunities
 - 8/7 - 8/8/17: AISD Social Studies + Language Arts
-- Fall 2017: Project Deployed to classrooms in AISD
-
-### Past Milestones
-
+- 7/1/17: Identify summer beta testing opportunities
+- 6/1/17: Finalized curriculum for Units 2 & 3
+- 5/15/17: Legit-o-Meter v0 target launch for beta testing & Curriculum Due
+- 4/17/17: Legit-o-Meter v0 target for soft launch for teacher feedback
+- 4/4/17: Team Check-in
 - March 29, 2017: [Unit 2](https://docs.google.com/document/d/1WY9niUdCHBHzebspFYQgASG_UmVKXdvJuBHZMLZhTNY/edit?usp=sharing) Curriculum Deadline
 - March 15, 2017: Curriculum (Units 2 & 3) Review draft due
 - March 17, 2017: Team IRL Meeting/Brainstorm
@@ -67,7 +63,7 @@ One of our technical contributors, Rally Jinx, demo'd an early prototype of our 
 - Feb 9, 2017: Fake the News team met for brainstorming on the three lesson. Sarah (Nucleus Learning Network) is tasked with creating a Curriculum Outline Draft and Mateo (Open Austin) is tasked with creating a Design Brief for the Legit-o-Meter web app.
 
 ## The Lessons
-These lessons will empower students with valuable news literacy skills that they can use to recognize, evaluate, and combat fake news and misinformation. 
+These lessons empower students with valuable news literacy skills that they can use to recognize, evaluate, and combat fake news and misinformation. 
 
 ### Lesson #1: Legit-o-Meter
 
@@ -82,6 +78,6 @@ The goal of Lesson 2 is to help students better understand how fake new is produ
 The goal of the Lesson 3 is to put students in the editor’s chair and give them a chance to make decisions common in news organizations, and to experience the consequences of those decisions. With this lesson, students will gain a deeper understanding of how fake news fits in a broader news and information ecosystem. 
 
 ## Contact
-- [Michael Kanin](mailto:michael.kanin@cotmf.org), Austin Monitor
+- [Ashley Fisher](mailto:ashley.fisher@cotmf.org), Austin Monitor
 - [Sarah Morris](mailto:smorris@nucleuslearningnetwork.org), Nucleus Learning Network
 - [Mateo Clarke](mailto:code@mateoclarke.com), Open Austin & Civic Party Software
